@@ -2,6 +2,8 @@
 
 The project exists to search for movies by movie title
 
+![preview](preview.jpg)
+
 ## Tech Stack
 - React
 - OMDb API
